@@ -1,0 +1,246 @@
+body {
+	font-family: "Microsoft YaHei" ! important;
+}
+
+a:hover {
+	text-decoration: none;
+	color: red;
+}
+
+.navbar {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: #ffffff;
+	font-size: 16px;
+}
+
+.navbar-default {
+	border: none;
+}
+
+.navbar-brand {
+	padding: 0px;
+}
+
+.banner {
+	margin-top: 70px;
+}
+
+#dh a {
+	padding-left: 45px;
+}
+
+#dh a:hover {
+	color: red;
+}
+
+.navbar-text {
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+.ad {
+	margin-top: 20px;
+}
+
+.ad:before,
+.ad:after,
+.s2:before,
+.s2:after,
+.caseTitle p:before,
+.caseTitle p:after {
+	background: #cdcdcd no-repeat;
+	content: "";
+	height: 1px;
+	display: inline-block;
+	width: 8%;
+	vertical-align: middle;
+}
+
+.ad,
+.bt2 {
+	color: #666;
+}
+
+.wz {
+	margin-top: 50px;
+	line-height: 35px;
+}
+
+.dbt {
+	font-size: 35px;
+}
+
+.services {
+	margin-top: 50px;
+	text-align: center;
+	color: #666;
+}
+
+.services .s1 {
+	padding-top: 15px;
+	font-size: 20px;
+}
+
+.caseTitle {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.caseTitle p {
+	color: #666;
+}
+
+.tb i {
+	font-size: 50px;
+}
+
+.icon-weibo-sina1 {
+	color: #D58512;
+}
+
+.icon-weixin1 {
+	color: #67B168;
+}
+
+.icon-taobao1 {
+	color: #D58512;
+}
+
+.icon-qq1 {
+	color: #285E8E;
+}
+
+.footer {
+	margin-top: 40px;
+}
+
+.footer dt {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.footer2 {
+	margin-top: 30px;
+}
+
+.footer3 {
+	line-height: 40px;
+	color: #666;
+}
+
+.footer3 a {
+	color: #666;
+}
+
+.listBanner .col-lg-12 {
+	padding: 0px;
+}
+
+.listContent {
+	margin-top: 40px;
+}
+
+.listLeft h3 {
+	margin-top: 0px;
+}
+
+.listSummary {
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+
+.listList {
+	margin-bottom: 30px;
+}
+
+.listIcon span i,
+.listIcon i {
+	color: #666;
+}
+.listLeft{
+	padding-right:50px;
+}
+.author{
+	padding-top:5px;
+}
+.author,.author  i{
+	font-size: 12px;
+	color: #666666;
+	
+}
+.aboutGroup {
+	text-align: center;
+}
+
+.aboutTitle {
+	font-size: 16px;
+	font-weight: bolder;
+	color: #666666;
+	background: #ededed;
+	border-top: 0px;
+	border-left: 0px;
+}
+
+.aboutGroup a {
+	border-right: 0px;
+	border-left: 0px;
+}
+
+.articleTitle {
+	text-align: center;
+	font-size: 16px;
+	font-weight: bolder;
+	padding-bottom: 10px;
+	padding-top: 15px;
+	margin-bottom: 20px;
+	border-bottom: 1px #DDDDDD solid;
+	background: #ededed;
+}
+.articleList h4{
+	font-size: 15px;
+	font-weight: bolder;
+}
+@media only screen and (max-width: 768px) {
+	.navbar {
+		padding-top: 0px;
+		padding-bottom: 0px;
+		text-align: center;
+	}
+	.services .s1 {
+		padding-top: 15px;
+		font-size: 16px;
+	}
+	.services .s2 {
+		font-size: 12px;
+	}
+	.banner {
+		margin-top: 50px;
+	}
+	.logo {
+		height: 35px;
+	}
+	.navbar-brand {
+		padding-top: 5px;
+		padding-left: 15px;
+	}
+	.dbt {
+		font-size: 18px;
+	}
+	#dh a {
+		padding-left: 0px;
+	}
+	#dh a:hover {
+		color: red;
+	}
+	.tb {
+		text-align: center;
+		margin-top: 30px;
+	}
+	.clj {
+		text-align: center;
+	}
+	.footer3 {
+		margin-top: 20px;
+	}
+}
